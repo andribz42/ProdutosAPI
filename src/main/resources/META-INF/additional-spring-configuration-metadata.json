@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "receiver.mail.username",
+  "type": "java.lang.String",
+  "description": "O e-mail de destino"
+}]}
